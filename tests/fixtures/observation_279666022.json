@@ -1,0 +1,2602 @@
+{
+    "quality_grade": "research",
+    "time_observed_at": "2025-04-14T11:15:03+02:00",
+    "taxon_geoprivacy": "obscured",
+    "annotations": [],
+    "uuid": "da34e648-fcbc-43c1-b1d8-06e772f4a4b5",
+    "observed_on_details": {
+        "date": "2025-04-14",
+        "day": 14,
+        "month": 4,
+        "year": 2025,
+        "hour": 11,
+        "week": 16
+    },
+    "id": 279666022,
+    "cached_votes_total": 1,
+    "identifications_most_agree": true,
+    "created_at_details": {
+        "date": "2025-05-09",
+        "day": 9,
+        "month": 5,
+        "year": 2025,
+        "hour": 12,
+        "week": 19
+    },
+    "species_guess": "Gyrocaryum oppositifolium",
+    "identifications_most_disagree": false,
+    "tags": [],
+    "positional_accuracy": 240,
+    "comments_count": 1,
+    "site_id": 1,
+    "created_time_zone": "Europe/Madrid",
+    "license_code": "cc-by",
+    "observed_time_zone": "Europe/Madrid",
+    "quality_metrics": [],
+    "public_positional_accuracy": 28329,
+    "reviewed_by": [
+        259794,
+        3451244
+    ],
+    "oauth_application_id": 2,
+    "flags": [],
+    "created_at": "2025-05-09T12:23:42+02:00",
+    "description": "One of the only five Iberian endemic monotypic genera. This observation is from the type locality of the species. The population has just been rediscovered more than 40 years after the species description. \r\nhttps://www.diariodesevilla.es/vivirensevilla/redescubren-sevilla-planta-dada-extinguida_0_2003890712.html ",
+    "time_zone_offset": "+01:00",
+    "project_ids_with_curator_id": [],
+    "observed_on": "2025-04-14",
+    "observed_on_string": "2025-04-14 11:15:03",
+    "updated_at": "2025-05-10T12:12:45+02:00",
+    "sounds": [],
+    "place_ids": [],
+    "captive": false,
+    "taxon": {
+        "is_active": true,
+        "ancestry": "48460/47126/211194/47125/47124/523723/48150/796031/796037/185552",
+        "min_species_ancestry": "48460,47126,211194,47125,47124,523723,48150,796031,796037,185552,193209",
+        "endemic": false,
+        "iconic_taxon_id": 47126,
+        "min_species_taxon_id": 193209,
+        "threatened": true,
+        "rank_level": 10,
+        "introduced": false,
+        "native": false,
+        "parent_id": 185552,
+        "name": "Gyrocaryum oppositifolium",
+        "rank": "species",
+        "extinct": false,
+        "id": 193209,
+        "ancestor_ids": [
+            48460,
+            47126,
+            211194,
+            47125,
+            47124,
+            523723,
+            48150,
+            796031,
+            796037,
+            185552,
+            193209
+        ],
+        "created_at": "2012-11-15T17:27:27+00:00",
+        "default_photo": {
+            "id": 184886300,
+            "license_code": "cc-by-nc",
+            "attribution": "(c) \u00c1ngel Arg\u00fcelles, some rights reserved (CC BY-NC), uploaded by \u00c1ngel Arg\u00fcelles",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+            "original_dimensions": {
+                "height": 1058,
+                "width": 1382
+            },
+            "flags": [],
+            "attribution_name": "\u00c1ngel Arg\u00fcelles",
+            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/medium.jpeg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 3,
+        "observations_count": 16,
+        "photos_locked": false,
+        "universal_search_rank": 16,
+        "flag_counts": {
+            "resolved": 0,
+            "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gyrocaryum oppositifolium",
+        "iconic_taxon_name": "Plantae",
+        "conservation_status": {
+            "id": 81213,
+            "place_id": null,
+            "source_id": 9164,
+            "user_id": null,
+            "authority": "IUCN Red List",
+            "status": "cr",
+            "status_name": "critically endangered",
+            "geoprivacy": "obscured",
+            "iucn": 50
+        },
+        "wikipedia_summary": "<i><b>Gyrocaryum</b></i> is a genus of plant in family Boraginaceae. It contains a single species, <i><b>Gyrocaryum oppositifolium</b></i>, which is endemic to Spain."
+    },
+    "ident_taxon_ids": [
+        48460,
+        47126,
+        211194,
+        47125,
+        47124,
+        523723,
+        48150,
+        796031,
+        796037,
+        185552,
+        193209
+    ],
+    "outlinks": [],
+    "faves_count": 1,
+    "ofvs": [],
+    "num_identification_agreements": 1,
+    "preferences": {
+        "prefers_community_taxon": null
+    },
+    "comments": [
+        {
+            "id": 18196580,
+            "uuid": "83a66149-4a74-481b-a467-771baf23ec64",
+            "user": {
+                "id": 59237,
+                "login": "heidimeudt",
+                "spam": false,
+                "suspended": false,
+                "created_at": "2014-08-20T19:45:24+00:00",
+                "login_autocomplete": "heidimeudt",
+                "login_exact": "heidimeudt",
+                "name": "Heidi Meudt",
+                "name_autocomplete": "Heidi Meudt",
+                "orcid": null,
+                "icon": "https://static.inaturalist.org/attachments/users/icons/59237/thumb.jpg?1612808119",
+                "observations_count": 4861,
+                "identifications_count": 5330,
+                "journal_posts_count": 1,
+                "activity_count": 10192,
+                "species_count": 1732,
+                "annotated_observations_count": 21,
+                "universal_search_rank": 4861,
+                "roles": [
+                    "curator"
+                ],
+                "site_id": 3,
+                "icon_url": "https://static.inaturalist.org/attachments/users/icons/59237/medium.jpg?1612808119"
+            },
+            "created_at": "2025-05-10T00:43:59+02:00",
+            "created_at_details": {
+                "date": "2025-05-10",
+                "day": 10,
+                "month": 5,
+                "year": 2025,
+                "hour": 0,
+                "week": 19
+            },
+            "body": "Hermosa! Felicidades!!!",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        }
+    ],
+    "map_scale": null,
+    "uri": "https://www.inaturalist.org/observations/279666022",
+    "project_ids": [],
+    "community_taxon_id": 193209,
+    "geojson": null,
+    "owners_identification_from_vision": false,
+    "identifications_count": 1,
+    "obscured": true,
+    "num_identification_disagreements": 0,
+    "geoprivacy": "private",
+    "location": null,
+    "votes": [
+        {
+            "id": 10733740,
+            "vote_flag": true,
+            "vote_scope": null,
+            "user_id": 59237,
+            "created_at": "2025-05-10T00:42:14.666+02:00",
+            "user": {
+                "id": 59237,
+                "login": "heidimeudt",
+                "spam": false,
+                "suspended": false,
+                "created_at": "2014-08-20T19:45:24+00:00",
+                "login_autocomplete": "heidimeudt",
+                "login_exact": "heidimeudt",
+                "name": "Heidi Meudt",
+                "name_autocomplete": "Heidi Meudt",
+                "orcid": null,
+                "icon": "https://static.inaturalist.org/attachments/users/icons/59237/thumb.jpg?1612808119",
+                "observations_count": 4861,
+                "identifications_count": 5330,
+                "journal_posts_count": 1,
+                "activity_count": 10192,
+                "species_count": 1732,
+                "annotated_observations_count": 21,
+                "universal_search_rank": 4861,
+                "roles": [
+                    "curator"
+                ],
+                "site_id": 3,
+                "icon_url": "https://static.inaturalist.org/attachments/users/icons/59237/medium.jpg?1612808119"
+            }
+        }
+    ],
+    "spam": false,
+    "user": {
+        "id": 3451244,
+        "login": "martin-bravo",
+        "spam": false,
+        "suspended": false,
+        "created_at": "2020-08-11T14:26:51+00:00",
+        "site_id": 1,
+        "preferences": {},
+        "login_autocomplete": "martin-bravo",
+        "login_exact": "martin-bravo",
+        "name": "Santiago Mart\u00edn-Bravo",
+        "name_autocomplete": "Santiago Mart\u00edn-Bravo",
+        "orcid": "https://orcid.org/0000-0003-0626-0770",
+        "icon": "https://static.inaturalist.org/attachments/users/icons/3451244/thumb.jpeg?1603498246",
+        "observations_count": 5916,
+        "identifications_count": 6591,
+        "journal_posts_count": 0,
+        "activity_count": 12507,
+        "species_count": 2908,
+        "annotated_observations_count": 50,
+        "universal_search_rank": 5916,
+        "roles": [
+            "curator"
+        ],
+        "icon_url": "https://static.inaturalist.org/attachments/users/icons/3451244/medium.jpeg?1603498246"
+    },
+    "mappable": false,
+    "identifications_some_agree": true,
+    "project_ids_without_curator_id": [],
+    "place_guess": null,
+    "identifications": [
+        {
+            "id": 629124064,
+            "uuid": "9860443f-c064-4792-a02c-14722ec4c11d",
+            "user": {
+                "id": 259794,
+                "login": "jimarcor",
+                "spam": false,
+                "suspended": false,
+                "created_at": "2016-06-15T17:59:52+00:00",
+                "login_autocomplete": "jimarcor",
+                "login_exact": "jimarcor",
+                "name": "Jos\u00e9 Ignacio M\u00e1rquez Corro",
+                "name_autocomplete": "Jos\u00e9 Ignacio M\u00e1rquez Corro",
+                "orcid": "https://orcid.org/0000-0003-4277-2933",
+                "icon": "https://static.inaturalist.org/attachments/users/icons/259794/b93aff48139ef406ced598bcf37b19c4-thumb.jpg?1745701769",
+                "observations_count": 10342,
+                "identifications_count": 3422,
+                "journal_posts_count": 2,
+                "activity_count": 13766,
+                "species_count": 3181,
+                "annotated_observations_count": 351,
+                "universal_search_rank": 10342,
+                "roles": [],
+                "site_id": 1,
+                "icon_url": "https://static.inaturalist.org/attachments/users/icons/259794/b93aff48139ef406ced598bcf37b19c4-medium.jpg?1745701769"
+            },
+            "created_at": "2025-05-09T12:33:44+02:00",
+            "created_at_details": {
+                "date": "2025-05-09",
+                "day": 9,
+                "month": 5,
+                "year": 2025,
+                "hour": 12,
+                "week": 19
+            },
+            "body": null,
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": null,
+            "previous_observation_taxon_id": null,
+            "spam": false,
+            "taxon_id": 193209,
+            "hidden": false,
+            "moderator_actions": [],
+            "taxon": {
+                "id": 193209,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 47126,
+                "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    523723,
+                    48150,
+                    796031,
+                    796037,
+                    185552
+                ],
+                "is_active": true,
+                "min_species_taxon_id": 193209,
+                "name": "Gyrocaryum oppositifolium",
+                "parent_id": 185552,
+                "ancestry": "48460/47126/211194/47125/47124/523723/48150/796031/796037/185552",
+                "min_species_ancestry": "48460,47126,211194,47125,47124,523723,48150,796031,796037,185552,193209",
+                "extinct": false,
+                "created_at": "2012-11-15T17:27:27+00:00",
+                "default_photo": {
+                    "id": 184886300,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) \u00c1ngel Arg\u00fcelles, some rights reserved (CC BY-NC), uploaded by \u00c1ngel Arg\u00fcelles",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                    "original_dimensions": {
+                        "height": 1058,
+                        "width": 1382
+                    },
+                    "flags": [],
+                    "attribution_name": "\u00c1ngel Arg\u00fcelles",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/medium.jpeg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 3,
+                "observations_count": 16,
+                "photos_locked": false,
+                "universal_search_rank": 16,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Gyrocaryum",
+                "iconic_taxon_name": "Plantae",
+                "conservation_status": {
+                    "id": 81213,
+                    "place_id": null,
+                    "source_id": 9164,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "cr",
+                    "status_name": "critically endangered",
+                    "geoprivacy": "obscured",
+                    "iucn": 50
+                },
+                "ancestors": [
+                    {
+                        "id": 47126,
+                        "rank": "kingdom",
+                        "rank_level": 70,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126
+                        ],
+                        "is_active": true,
+                        "name": "Plantae",
+                        "parent_id": 48460,
+                        "ancestry": "48460",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 221143410,
+                            "license_code": null,
+                            "attribution": "(c) Roc\u00edo Ram\u00edrez Barrios, all rights reserved, uploaded by Roc\u00edo Ram\u00edrez Barrios",
+                            "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                            "original_dimensions": {
+                                "height": 2048,
+                                "width": 1462
+                            },
+                            "flags": [],
+                            "attribution_name": "Roc\u00edo Ram\u00edrez Barrios",
+                            "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                            "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                        },
+                        "taxon_changes_count": 7,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 111803090,
+                        "flag_counts": {
+                            "resolved": 19,
+                            "unresolved": 4
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                        "complete_rank": "phylum",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "plants"
+                    },
+                    {
+                        "id": 211194,
+                        "rank": "phylum",
+                        "rank_level": 60,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194
+                        ],
+                        "is_active": true,
+                        "name": "Tracheophyta",
+                        "parent_id": 47126,
+                        "ancestry": "48460/47126",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 78650848,
+                            "license_code": "cc-by-nd",
+                            "attribution": "(c) harrylurling, some rights reserved (CC BY-ND), uploaded by harrylurling",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78650848/square.jpeg",
+                            "original_dimensions": {
+                                "height": 1536,
+                                "width": 2048
+                            },
+                            "flags": [],
+                            "attribution_name": "harrylurling",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78650848/square.jpeg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78650848/medium.jpeg"
+                        },
+                        "taxon_changes_count": 3,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 108258891,
+                        "flag_counts": {
+                            "resolved": 7,
+                            "unresolved": 1
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "vascular plants"
+                    },
+                    {
+                        "id": 47125,
+                        "rank": "subphylum",
+                        "rank_level": 57,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125
+                        ],
+                        "is_active": true,
+                        "name": "Angiospermae",
+                        "parent_id": 211194,
+                        "ancestry": "48460/47126/211194",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 102229489,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) mateoalmada, some rights reserved (CC BY-NC)",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102229489/square.jpg",
+                            "original_dimensions": {
+                                "height": 2048,
+                                "width": 1536
+                            },
+                            "flags": [],
+                            "attribution_name": "mateoalmada",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102229489/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102229489/medium.jpg"
+                        },
+                        "taxon_changes_count": 5,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 102168082,
+                        "flag_counts": {
+                            "resolved": 13,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "flowering plants"
+                    },
+                    {
+                        "id": 47124,
+                        "rank": "class",
+                        "rank_level": 50,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124
+                        ],
+                        "is_active": true,
+                        "name": "Magnoliopsida",
+                        "parent_id": 47125,
+                        "ancestry": "48460/47126/211194/47125",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 17220682,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) Heriberto \u00c1vila-Gonz\u00e1lez, some rights reserved (CC BY-NC), uploaded by Heriberto \u00c1vila-Gonz\u00e1lez",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17220682/square.jpg",
+                            "original_dimensions": {
+                                "height": 1414,
+                                "width": 2048
+                            },
+                            "flags": [],
+                            "attribution_name": "Heriberto \u00c1vila-Gonz\u00e1lez",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17220682/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17220682/medium.jpg"
+                        },
+                        "taxon_changes_count": 4,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 85588101,
+                        "flag_counts": {
+                            "resolved": 10,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "dicots"
+                    },
+                    {
+                        "id": 523723,
+                        "rank": "order",
+                        "rank_level": 40,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723
+                        ],
+                        "is_active": true,
+                        "name": "Boraginales",
+                        "parent_id": 47124,
+                        "ancestry": "48460/47126/211194/47125/47124",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 66417631,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) Joey Santore, some rights reserved (CC BY-NC), uploaded by Joey Santore",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66417631/square.jpeg",
+                            "original_dimensions": {
+                                "height": 1620,
+                                "width": 1080
+                            },
+                            "flags": [],
+                            "attribution_name": "Joey Santore",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66417631/square.jpeg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66417631/medium.jpeg"
+                        },
+                        "taxon_changes_count": 0,
+                        "taxon_schemes_count": 1,
+                        "observations_count": 1588133,
+                        "flag_counts": {
+                            "resolved": 0,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "http://en.wikipedia.org/wiki/Boraginales",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "borages"
+                    },
+                    {
+                        "id": 48150,
+                        "rank": "family",
+                        "rank_level": 30,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723,
+                            48150
+                        ],
+                        "is_active": true,
+                        "name": "Boraginaceae",
+                        "parent_id": 523723,
+                        "ancestry": "48460/47126/211194/47125/47124/523723",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 31342774,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) Alvin Diamond, some rights reserved (CC BY-NC), uploaded by Alvin Diamond",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31342774/square.jpg",
+                            "original_dimensions": {
+                                "height": 1198,
+                                "width": 952
+                            },
+                            "flags": [],
+                            "attribution_name": "Alvin Diamond",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31342774/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31342774/medium.jpg"
+                        },
+                        "taxon_changes_count": 11,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 1587905,
+                        "flag_counts": {
+                            "resolved": 3,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "http://en.wikipedia.org/wiki/Boraginaceae",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "borage family"
+                    },
+                    {
+                        "id": 796031,
+                        "rank": "subfamily",
+                        "rank_level": 27,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723,
+                            48150,
+                            796031
+                        ],
+                        "is_active": true,
+                        "name": "Cynoglossoideae",
+                        "parent_id": 48150,
+                        "ancestry": "48460/47126/211194/47125/47124/523723/48150",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 11843725,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) Paul Tavares, some rights reserved (CC BY-NC), uploaded by Paul Tavares",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11843725/square.jpg",
+                            "original_dimensions": {
+                                "height": 1280,
+                                "width": 2048
+                            },
+                            "flags": [],
+                            "attribution_name": "Paul Tavares",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11843725/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11843725/medium.jpg"
+                        },
+                        "taxon_changes_count": 0,
+                        "taxon_schemes_count": 0,
+                        "observations_count": 525315,
+                        "flag_counts": {
+                            "resolved": 0,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": null,
+                        "iconic_taxon_name": "Plantae"
+                    },
+                    {
+                        "id": 796037,
+                        "rank": "tribe",
+                        "rank_level": 25,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723,
+                            48150,
+                            796031,
+                            796037
+                        ],
+                        "is_active": true,
+                        "name": "Omphalodeae",
+                        "parent_id": 796031,
+                        "ancestry": "48460/47126/211194/47125/47124/523723/48150/796031",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 28379236,
+                            "license_code": "cc0",
+                            "attribution": "no rights reserved, uploaded by Peter de Lange",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28379236/square.jpg",
+                            "original_dimensions": {
+                                "height": 2048,
+                                "width": 1660
+                            },
+                            "flags": [],
+                            "attribution_name": "Peter de Lange",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28379236/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28379236/medium.jpg"
+                        },
+                        "taxon_changes_count": 0,
+                        "taxon_schemes_count": 0,
+                        "observations_count": 4839,
+                        "flag_counts": {
+                            "resolved": 0,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": null,
+                        "iconic_taxon_name": "Plantae"
+                    },
+                    {
+                        "id": 185552,
+                        "rank": "genus",
+                        "rank_level": 20,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723,
+                            48150,
+                            796031,
+                            796037,
+                            185552
+                        ],
+                        "is_active": true,
+                        "name": "Gyrocaryum",
+                        "parent_id": 796037,
+                        "ancestry": "48460/47126/211194/47125/47124/523723/48150/796031/796037",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 184886300,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) \u00c1ngel Arg\u00fcelles, some rights reserved (CC BY-NC), uploaded by \u00c1ngel Arg\u00fcelles",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                            "original_dimensions": {
+                                "height": 1058,
+                                "width": 1382
+                            },
+                            "flags": [],
+                            "attribution_name": "\u00c1ngel Arg\u00fcelles",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/medium.jpeg"
+                        },
+                        "taxon_changes_count": 0,
+                        "taxon_schemes_count": 1,
+                        "observations_count": 16,
+                        "flag_counts": {
+                            "resolved": 0,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "http://en.wikipedia.org/wiki/Gyrocaryum",
+                        "iconic_taxon_name": "Plantae"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 629129205,
+            "uuid": "f607a374-bd82-4132-af59-e9c1c5e7841d",
+            "user": {
+                "id": 3451244,
+                "login": "martin-bravo",
+                "spam": false,
+                "suspended": false,
+                "created_at": "2020-08-11T14:26:51+00:00",
+                "login_autocomplete": "martin-bravo",
+                "login_exact": "martin-bravo",
+                "name": "Santiago Mart\u00edn-Bravo",
+                "name_autocomplete": "Santiago Mart\u00edn-Bravo",
+                "orcid": "https://orcid.org/0000-0003-0626-0770",
+                "icon": "https://static.inaturalist.org/attachments/users/icons/3451244/thumb.jpeg?1603498246",
+                "observations_count": 5916,
+                "identifications_count": 6591,
+                "journal_posts_count": 0,
+                "activity_count": 12507,
+                "species_count": 2908,
+                "annotated_observations_count": 50,
+                "universal_search_rank": 5916,
+                "roles": [
+                    "curator"
+                ],
+                "site_id": 1,
+                "icon_url": "https://static.inaturalist.org/attachments/users/icons/3451244/medium.jpeg?1603498246"
+            },
+            "created_at": "2025-05-09T12:54:30+02:00",
+            "created_at_details": {
+                "date": "2025-05-09",
+                "day": 9,
+                "month": 5,
+                "year": 2025,
+                "hour": 12,
+                "week": 19
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": true,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 193209,
+            "spam": false,
+            "taxon_id": 193209,
+            "hidden": false,
+            "moderator_actions": [],
+            "taxon": {
+                "id": 193209,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 47126,
+                "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    523723,
+                    48150,
+                    796031,
+                    796037,
+                    185552
+                ],
+                "is_active": true,
+                "min_species_taxon_id": 193209,
+                "name": "Gyrocaryum oppositifolium",
+                "parent_id": 185552,
+                "ancestry": "48460/47126/211194/47125/47124/523723/48150/796031/796037/185552",
+                "min_species_ancestry": "48460,47126,211194,47125,47124,523723,48150,796031,796037,185552,193209",
+                "extinct": false,
+                "created_at": "2012-11-15T17:27:27+00:00",
+                "default_photo": {
+                    "id": 184886300,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) \u00c1ngel Arg\u00fcelles, some rights reserved (CC BY-NC), uploaded by \u00c1ngel Arg\u00fcelles",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                    "original_dimensions": {
+                        "height": 1058,
+                        "width": 1382
+                    },
+                    "flags": [],
+                    "attribution_name": "\u00c1ngel Arg\u00fcelles",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/medium.jpeg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 3,
+                "observations_count": 16,
+                "photos_locked": false,
+                "universal_search_rank": 16,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Gyrocaryum",
+                "iconic_taxon_name": "Plantae",
+                "conservation_status": {
+                    "id": 81213,
+                    "place_id": null,
+                    "source_id": 9164,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "cr",
+                    "status_name": "critically endangered",
+                    "geoprivacy": "obscured",
+                    "iucn": 50
+                },
+                "ancestors": [
+                    {
+                        "id": 47126,
+                        "rank": "kingdom",
+                        "rank_level": 70,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126
+                        ],
+                        "is_active": true,
+                        "name": "Plantae",
+                        "parent_id": 48460,
+                        "ancestry": "48460",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 221143410,
+                            "license_code": null,
+                            "attribution": "(c) Roc\u00edo Ram\u00edrez Barrios, all rights reserved, uploaded by Roc\u00edo Ram\u00edrez Barrios",
+                            "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                            "original_dimensions": {
+                                "height": 2048,
+                                "width": 1462
+                            },
+                            "flags": [],
+                            "attribution_name": "Roc\u00edo Ram\u00edrez Barrios",
+                            "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                            "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                        },
+                        "taxon_changes_count": 7,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 111803090,
+                        "flag_counts": {
+                            "resolved": 19,
+                            "unresolved": 4
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                        "complete_rank": "phylum",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "plants"
+                    },
+                    {
+                        "id": 211194,
+                        "rank": "phylum",
+                        "rank_level": 60,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194
+                        ],
+                        "is_active": true,
+                        "name": "Tracheophyta",
+                        "parent_id": 47126,
+                        "ancestry": "48460/47126",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 78650848,
+                            "license_code": "cc-by-nd",
+                            "attribution": "(c) harrylurling, some rights reserved (CC BY-ND), uploaded by harrylurling",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78650848/square.jpeg",
+                            "original_dimensions": {
+                                "height": 1536,
+                                "width": 2048
+                            },
+                            "flags": [],
+                            "attribution_name": "harrylurling",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78650848/square.jpeg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78650848/medium.jpeg"
+                        },
+                        "taxon_changes_count": 3,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 108258891,
+                        "flag_counts": {
+                            "resolved": 7,
+                            "unresolved": 1
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "vascular plants"
+                    },
+                    {
+                        "id": 47125,
+                        "rank": "subphylum",
+                        "rank_level": 57,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125
+                        ],
+                        "is_active": true,
+                        "name": "Angiospermae",
+                        "parent_id": 211194,
+                        "ancestry": "48460/47126/211194",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 102229489,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) mateoalmada, some rights reserved (CC BY-NC)",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102229489/square.jpg",
+                            "original_dimensions": {
+                                "height": 2048,
+                                "width": 1536
+                            },
+                            "flags": [],
+                            "attribution_name": "mateoalmada",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102229489/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102229489/medium.jpg"
+                        },
+                        "taxon_changes_count": 5,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 102168082,
+                        "flag_counts": {
+                            "resolved": 13,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "flowering plants"
+                    },
+                    {
+                        "id": 47124,
+                        "rank": "class",
+                        "rank_level": 50,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124
+                        ],
+                        "is_active": true,
+                        "name": "Magnoliopsida",
+                        "parent_id": 47125,
+                        "ancestry": "48460/47126/211194/47125",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 17220682,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) Heriberto \u00c1vila-Gonz\u00e1lez, some rights reserved (CC BY-NC), uploaded by Heriberto \u00c1vila-Gonz\u00e1lez",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17220682/square.jpg",
+                            "original_dimensions": {
+                                "height": 1414,
+                                "width": 2048
+                            },
+                            "flags": [],
+                            "attribution_name": "Heriberto \u00c1vila-Gonz\u00e1lez",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17220682/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17220682/medium.jpg"
+                        },
+                        "taxon_changes_count": 4,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 85588101,
+                        "flag_counts": {
+                            "resolved": 10,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "dicots"
+                    },
+                    {
+                        "id": 523723,
+                        "rank": "order",
+                        "rank_level": 40,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723
+                        ],
+                        "is_active": true,
+                        "name": "Boraginales",
+                        "parent_id": 47124,
+                        "ancestry": "48460/47126/211194/47125/47124",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 66417631,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) Joey Santore, some rights reserved (CC BY-NC), uploaded by Joey Santore",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66417631/square.jpeg",
+                            "original_dimensions": {
+                                "height": 1620,
+                                "width": 1080
+                            },
+                            "flags": [],
+                            "attribution_name": "Joey Santore",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66417631/square.jpeg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66417631/medium.jpeg"
+                        },
+                        "taxon_changes_count": 0,
+                        "taxon_schemes_count": 1,
+                        "observations_count": 1588133,
+                        "flag_counts": {
+                            "resolved": 0,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "http://en.wikipedia.org/wiki/Boraginales",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "borages"
+                    },
+                    {
+                        "id": 48150,
+                        "rank": "family",
+                        "rank_level": 30,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723,
+                            48150
+                        ],
+                        "is_active": true,
+                        "name": "Boraginaceae",
+                        "parent_id": 523723,
+                        "ancestry": "48460/47126/211194/47125/47124/523723",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 31342774,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) Alvin Diamond, some rights reserved (CC BY-NC), uploaded by Alvin Diamond",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31342774/square.jpg",
+                            "original_dimensions": {
+                                "height": 1198,
+                                "width": 952
+                            },
+                            "flags": [],
+                            "attribution_name": "Alvin Diamond",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31342774/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31342774/medium.jpg"
+                        },
+                        "taxon_changes_count": 11,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 1587905,
+                        "flag_counts": {
+                            "resolved": 3,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "http://en.wikipedia.org/wiki/Boraginaceae",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "borage family"
+                    },
+                    {
+                        "id": 796031,
+                        "rank": "subfamily",
+                        "rank_level": 27,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723,
+                            48150,
+                            796031
+                        ],
+                        "is_active": true,
+                        "name": "Cynoglossoideae",
+                        "parent_id": 48150,
+                        "ancestry": "48460/47126/211194/47125/47124/523723/48150",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 11843725,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) Paul Tavares, some rights reserved (CC BY-NC), uploaded by Paul Tavares",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11843725/square.jpg",
+                            "original_dimensions": {
+                                "height": 1280,
+                                "width": 2048
+                            },
+                            "flags": [],
+                            "attribution_name": "Paul Tavares",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11843725/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11843725/medium.jpg"
+                        },
+                        "taxon_changes_count": 0,
+                        "taxon_schemes_count": 0,
+                        "observations_count": 525315,
+                        "flag_counts": {
+                            "resolved": 0,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": null,
+                        "iconic_taxon_name": "Plantae"
+                    },
+                    {
+                        "id": 796037,
+                        "rank": "tribe",
+                        "rank_level": 25,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723,
+                            48150,
+                            796031,
+                            796037
+                        ],
+                        "is_active": true,
+                        "name": "Omphalodeae",
+                        "parent_id": 796031,
+                        "ancestry": "48460/47126/211194/47125/47124/523723/48150/796031",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 28379236,
+                            "license_code": "cc0",
+                            "attribution": "no rights reserved, uploaded by Peter de Lange",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28379236/square.jpg",
+                            "original_dimensions": {
+                                "height": 2048,
+                                "width": 1660
+                            },
+                            "flags": [],
+                            "attribution_name": "Peter de Lange",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28379236/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28379236/medium.jpg"
+                        },
+                        "taxon_changes_count": 0,
+                        "taxon_schemes_count": 0,
+                        "observations_count": 4839,
+                        "flag_counts": {
+                            "resolved": 0,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": null,
+                        "iconic_taxon_name": "Plantae"
+                    },
+                    {
+                        "id": 185552,
+                        "rank": "genus",
+                        "rank_level": 20,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723,
+                            48150,
+                            796031,
+                            796037,
+                            185552
+                        ],
+                        "is_active": true,
+                        "name": "Gyrocaryum",
+                        "parent_id": 796037,
+                        "ancestry": "48460/47126/211194/47125/47124/523723/48150/796031/796037",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 184886300,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) \u00c1ngel Arg\u00fcelles, some rights reserved (CC BY-NC), uploaded by \u00c1ngel Arg\u00fcelles",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                            "original_dimensions": {
+                                "height": 1058,
+                                "width": 1382
+                            },
+                            "flags": [],
+                            "attribution_name": "\u00c1ngel Arg\u00fcelles",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/medium.jpeg"
+                        },
+                        "taxon_changes_count": 0,
+                        "taxon_schemes_count": 1,
+                        "observations_count": 16,
+                        "flag_counts": {
+                            "resolved": 0,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "http://en.wikipedia.org/wiki/Gyrocaryum",
+                        "iconic_taxon_name": "Plantae"
+                    }
+                ]
+            },
+            "previous_observation_taxon": {
+                "id": 193209,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 47126,
+                "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    523723,
+                    48150,
+                    796031,
+                    796037,
+                    185552,
+                    193209
+                ],
+                "is_active": true,
+                "min_species_taxon_id": 193209,
+                "name": "Gyrocaryum oppositifolium",
+                "parent_id": 185552,
+                "ancestry": "48460/47126/211194/47125/47124/523723/48150/796031/796037/185552",
+                "min_species_ancestry": "48460,47126,211194,47125,47124,523723,48150,796031,796037,185552,193209",
+                "extinct": false,
+                "created_at": "2012-11-15T17:27:27+00:00",
+                "default_photo": {
+                    "id": 184886300,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) \u00c1ngel Arg\u00fcelles, some rights reserved (CC BY-NC), uploaded by \u00c1ngel Arg\u00fcelles",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                    "original_dimensions": {
+                        "height": 1058,
+                        "width": 1382
+                    },
+                    "flags": [],
+                    "attribution_name": "\u00c1ngel Arg\u00fcelles",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/medium.jpeg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 3,
+                "observations_count": 16,
+                "photos_locked": false,
+                "universal_search_rank": 16,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Gyrocaryum",
+                "iconic_taxon_name": "Plantae",
+                "conservation_status": {
+                    "id": 81213,
+                    "place_id": null,
+                    "source_id": 9164,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "cr",
+                    "status_name": "critically endangered",
+                    "geoprivacy": "obscured",
+                    "iucn": 50
+                }
+            }
+        }
+    ],
+    "project_observations": [],
+    "observation_photos": [
+        {
+            "id": 466975443,
+            "position": 0,
+            "uuid": "64139923-ebda-48cf-8d8f-8f3961e72396",
+            "photo_id": 502225449,
+            "photo": {
+                "id": 502225449,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 720,
+                    "height": 1600
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225449/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975389,
+            "position": 1,
+            "uuid": "a4bcc6ea-1701-4d4d-8837-d4de73e3309e",
+            "photo_id": 502225375,
+            "photo": {
+                "id": 502225375,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 1600,
+                    "height": 720
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225375/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975402,
+            "position": 2,
+            "uuid": "2e1992c4-ea75-438f-b458-bbde08583e66",
+            "photo_id": 502225393,
+            "photo": {
+                "id": 502225393,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 720,
+                    "height": 1600
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225393/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975412,
+            "position": 3,
+            "uuid": "ede0138d-1542-436f-a6a2-d42a67dbfd00",
+            "photo_id": 502225408,
+            "photo": {
+                "id": 502225408,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 1600,
+                    "height": 720
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225408/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975432,
+            "position": 4,
+            "uuid": "d49fb1fa-de76-4d51-854d-a368b3745b63",
+            "photo_id": 502225430,
+            "photo": {
+                "id": 502225430,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 1600,
+                    "height": 720
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225430/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975455,
+            "position": 5,
+            "uuid": "6030a153-5d74-4fc7-87c6-6dbcd6bf5443",
+            "photo_id": 502225466,
+            "photo": {
+                "id": 502225466,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 720,
+                    "height": 1600
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225466/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975472,
+            "position": 6,
+            "uuid": "e1276c75-19fa-43ac-8f6e-9813a0ad592f",
+            "photo_id": 502225483,
+            "photo": {
+                "id": 502225483,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 720,
+                    "height": 1600
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225483/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975492,
+            "position": 7,
+            "uuid": "996f6ede-2a3a-4fb5-ab67-1caf561d16bb",
+            "photo_id": 502225509,
+            "photo": {
+                "id": 502225509,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 720,
+                    "height": 1600
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225509/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975511,
+            "position": 8,
+            "uuid": "ad525d05-94b2-470a-b6f5-697012f6b709",
+            "photo_id": 502225529,
+            "photo": {
+                "id": 502225529,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 720,
+                    "height": 1600
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225529/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975529,
+            "position": 9,
+            "uuid": "8fabb870-cb66-410d-a0d1-29aee6e1514f",
+            "photo_id": 502225550,
+            "photo": {
+                "id": 502225550,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 720,
+                    "height": 1600
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225550/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975549,
+            "position": 10,
+            "uuid": "694cf8a6-31f1-4893-894f-2d53b2a45dde",
+            "photo_id": 502225569,
+            "photo": {
+                "id": 502225569,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 720,
+                    "height": 1600
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225569/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975565,
+            "position": 11,
+            "uuid": "417ff727-d712-4487-b5ec-a93e438d3699",
+            "photo_id": 502225587,
+            "photo": {
+                "id": 502225587,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 919,
+                    "height": 2048
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225587/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975582,
+            "position": 12,
+            "uuid": "79b81b06-1c03-460b-9e0c-4da46de0cb1c",
+            "photo_id": 502225598,
+            "photo": {
+                "id": 502225598,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 720,
+                    "height": 1600
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225598/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975604,
+            "position": 13,
+            "uuid": "19a461a5-dfcd-45fe-ac83-0ce3f348c8f2",
+            "photo_id": 502225613,
+            "photo": {
+                "id": 502225613,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 720,
+                    "height": 1600
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225613/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975615,
+            "position": 14,
+            "uuid": "a9275c09-10bf-4707-bb25-0ecb3a693f99",
+            "photo_id": 502225627,
+            "photo": {
+                "id": 502225627,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 720,
+                    "height": 1600
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225627/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975633,
+            "position": 15,
+            "uuid": "afb06c35-9192-4e24-acf9-e65bc0c692c9",
+            "photo_id": 502225649,
+            "photo": {
+                "id": 502225649,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 919,
+                    "height": 2048
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225649/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975659,
+            "position": 16,
+            "uuid": "1b7e94ef-c92a-4eef-ae6b-7f0ff8b91447",
+            "photo_id": 502225666,
+            "photo": {
+                "id": 502225666,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 1600,
+                    "height": 720
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225666/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        },
+        {
+            "id": 466975671,
+            "position": 17,
+            "uuid": "d64fadb3-5b55-42d6-b7c0-ae369fdf4860",
+            "photo_id": 502225681,
+            "photo": {
+                "id": 502225681,
+                "license_code": "cc-by",
+                "original_dimensions": {
+                    "width": 1600,
+                    "height": 720
+                },
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225681/square.jpeg",
+                "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+                "flags": [],
+                "moderator_actions": [],
+                "hidden": false
+            }
+        }
+    ],
+    "photos": [
+        {
+            "id": 502225449,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 720,
+                "height": 1600
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225449/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225375,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 1600,
+                "height": 720
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225375/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225393,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 720,
+                "height": 1600
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225393/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225408,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 1600,
+                "height": 720
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225408/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225430,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 1600,
+                "height": 720
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225430/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225466,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 720,
+                "height": 1600
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225466/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225483,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 720,
+                "height": 1600
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225483/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225509,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 720,
+                "height": 1600
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225509/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225529,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 720,
+                "height": 1600
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225529/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225550,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 720,
+                "height": 1600
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225550/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225569,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 720,
+                "height": 1600
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225569/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225587,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 919,
+                "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225587/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225598,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 720,
+                "height": 1600
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225598/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225613,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 720,
+                "height": 1600
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225613/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225627,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 720,
+                "height": 1600
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225627/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225649,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 919,
+                "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225649/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225666,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 1600,
+                "height": 720
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225666/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        },
+        {
+            "id": 502225681,
+            "license_code": "cc-by",
+            "original_dimensions": {
+                "width": 1600,
+                "height": 720
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502225681/square.jpeg",
+            "attribution": "(c) Santiago Mart\u00edn-Bravo, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+        }
+    ],
+    "application": {
+        "id": 2,
+        "name": "iNaturalist Android App",
+        "url": "https://play.google.com/store/apps/details?id=org.inaturalist.android",
+        "icon": "https://static.inaturalist.org/oauth_applications/2-thumb.png"
+    },
+    "community_taxon": {
+        "id": 193209,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 47126,
+        "ancestor_ids": [
+            48460,
+            47126,
+            211194,
+            47125,
+            47124,
+            523723,
+            48150,
+            796031,
+            796037,
+            185552,
+            193209
+        ],
+        "is_active": true,
+        "name": "Gyrocaryum oppositifolium",
+        "parent_id": 185552,
+        "ancestry": "48460/47126/211194/47125/47124/523723/48150/796031/796037/185552",
+        "extinct": false,
+        "default_photo": {
+            "id": 184886300,
+            "license_code": "cc-by-nc",
+            "attribution": "(c) \u00c1ngel Arg\u00fcelles, some rights reserved (CC BY-NC), uploaded by \u00c1ngel Arg\u00fcelles",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+            "original_dimensions": {
+                "height": 1058,
+                "width": 1382
+            },
+            "flags": [],
+            "attribution_name": "\u00c1ngel Arg\u00fcelles",
+            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/medium.jpeg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 3,
+        "observations_count": 16,
+        "flag_counts": {
+            "resolved": 0,
+            "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gyrocaryum",
+        "iconic_taxon_name": "Plantae",
+        "conservation_status": {
+            "id": 81213,
+            "place_id": null,
+            "source_id": 9164,
+            "user_id": null,
+            "authority": "IUCN Red List",
+            "status": "cr",
+            "status_name": "critically endangered",
+            "geoprivacy": "obscured",
+            "iucn": 50
+        }
+    },
+    "faves": [
+        {
+            "id": 10733740,
+            "vote_flag": true,
+            "vote_scope": null,
+            "user_id": 59237,
+            "created_at": "2025-05-10T00:42:14.666+02:00",
+            "user": {
+                "id": 59237,
+                "login": "heidimeudt",
+                "spam": false,
+                "suspended": false,
+                "created_at": "2014-08-20T19:45:24+00:00",
+                "login_autocomplete": "heidimeudt",
+                "login_exact": "heidimeudt",
+                "name": "Heidi Meudt",
+                "name_autocomplete": "Heidi Meudt",
+                "orcid": null,
+                "icon": "https://static.inaturalist.org/attachments/users/icons/59237/thumb.jpg?1612808119",
+                "observations_count": 4861,
+                "identifications_count": 5330,
+                "journal_posts_count": 1,
+                "activity_count": 10192,
+                "species_count": 1732,
+                "annotated_observations_count": 21,
+                "universal_search_rank": 4861,
+                "roles": [
+                    "curator"
+                ],
+                "site_id": 3,
+                "icon_url": "https://static.inaturalist.org/attachments/users/icons/59237/medium.jpg?1612808119"
+            }
+        }
+    ],
+    "non_owner_ids": [
+        {
+            "id": 629124064,
+            "uuid": "9860443f-c064-4792-a02c-14722ec4c11d",
+            "user": {
+                "id": 259794,
+                "login": "jimarcor",
+                "spam": false,
+                "suspended": false,
+                "created_at": "2016-06-15T17:59:52+00:00",
+                "login_autocomplete": "jimarcor",
+                "login_exact": "jimarcor",
+                "name": "Jos\u00e9 Ignacio M\u00e1rquez Corro",
+                "name_autocomplete": "Jos\u00e9 Ignacio M\u00e1rquez Corro",
+                "orcid": "https://orcid.org/0000-0003-4277-2933",
+                "icon": "https://static.inaturalist.org/attachments/users/icons/259794/b93aff48139ef406ced598bcf37b19c4-thumb.jpg?1745701769",
+                "observations_count": 10342,
+                "identifications_count": 3422,
+                "journal_posts_count": 2,
+                "activity_count": 13766,
+                "species_count": 3181,
+                "annotated_observations_count": 351,
+                "universal_search_rank": 10342,
+                "roles": [],
+                "site_id": 1,
+                "icon_url": "https://static.inaturalist.org/attachments/users/icons/259794/b93aff48139ef406ced598bcf37b19c4-medium.jpg?1745701769"
+            },
+            "created_at": "2025-05-09T12:33:44+02:00",
+            "created_at_details": {
+                "date": "2025-05-09",
+                "day": 9,
+                "month": 5,
+                "year": 2025,
+                "hour": 12,
+                "week": 19
+            },
+            "body": null,
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": null,
+            "previous_observation_taxon_id": null,
+            "spam": false,
+            "taxon_id": 193209,
+            "hidden": false,
+            "moderator_actions": [],
+            "taxon": {
+                "id": 193209,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 47126,
+                "ancestor_ids": [
+                    48460,
+                    47126,
+                    211194,
+                    47125,
+                    47124,
+                    523723,
+                    48150,
+                    796031,
+                    796037,
+                    185552
+                ],
+                "is_active": true,
+                "min_species_taxon_id": 193209,
+                "name": "Gyrocaryum oppositifolium",
+                "parent_id": 185552,
+                "ancestry": "48460/47126/211194/47125/47124/523723/48150/796031/796037/185552",
+                "min_species_ancestry": "48460,47126,211194,47125,47124,523723,48150,796031,796037,185552,193209",
+                "extinct": false,
+                "created_at": "2012-11-15T17:27:27+00:00",
+                "default_photo": {
+                    "id": 184886300,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) \u00c1ngel Arg\u00fcelles, some rights reserved (CC BY-NC), uploaded by \u00c1ngel Arg\u00fcelles",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                    "original_dimensions": {
+                        "height": 1058,
+                        "width": 1382
+                    },
+                    "flags": [],
+                    "attribution_name": "\u00c1ngel Arg\u00fcelles",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/medium.jpeg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 3,
+                "observations_count": 16,
+                "photos_locked": false,
+                "universal_search_rank": 16,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Gyrocaryum",
+                "iconic_taxon_name": "Plantae",
+                "conservation_status": {
+                    "id": 81213,
+                    "place_id": null,
+                    "source_id": 9164,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "cr",
+                    "status_name": "critically endangered",
+                    "geoprivacy": "obscured",
+                    "iucn": 50
+                },
+                "ancestors": [
+                    {
+                        "id": 47126,
+                        "rank": "kingdom",
+                        "rank_level": 70,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126
+                        ],
+                        "is_active": true,
+                        "name": "Plantae",
+                        "parent_id": 48460,
+                        "ancestry": "48460",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 221143410,
+                            "license_code": null,
+                            "attribution": "(c) Roc\u00edo Ram\u00edrez Barrios, all rights reserved, uploaded by Roc\u00edo Ram\u00edrez Barrios",
+                            "url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                            "original_dimensions": {
+                                "height": 2048,
+                                "width": 1462
+                            },
+                            "flags": [],
+                            "attribution_name": "Roc\u00edo Ram\u00edrez Barrios",
+                            "square_url": "https://static.inaturalist.org/photos/221143410/square.jpeg",
+                            "medium_url": "https://static.inaturalist.org/photos/221143410/medium.jpeg"
+                        },
+                        "taxon_changes_count": 7,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 111803090,
+                        "flag_counts": {
+                            "resolved": 19,
+                            "unresolved": 4
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "https://en.wikipedia.org/wiki/Plant",
+                        "complete_rank": "phylum",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "plants"
+                    },
+                    {
+                        "id": 211194,
+                        "rank": "phylum",
+                        "rank_level": 60,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194
+                        ],
+                        "is_active": true,
+                        "name": "Tracheophyta",
+                        "parent_id": 47126,
+                        "ancestry": "48460/47126",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 78650848,
+                            "license_code": "cc-by-nd",
+                            "attribution": "(c) harrylurling, some rights reserved (CC BY-ND), uploaded by harrylurling",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78650848/square.jpeg",
+                            "original_dimensions": {
+                                "height": 1536,
+                                "width": 2048
+                            },
+                            "flags": [],
+                            "attribution_name": "harrylurling",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78650848/square.jpeg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78650848/medium.jpeg"
+                        },
+                        "taxon_changes_count": 3,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 108258891,
+                        "flag_counts": {
+                            "resolved": 7,
+                            "unresolved": 1
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "https://en.wikipedia.org/wiki/Vascular_plant",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "vascular plants"
+                    },
+                    {
+                        "id": 47125,
+                        "rank": "subphylum",
+                        "rank_level": 57,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125
+                        ],
+                        "is_active": true,
+                        "name": "Angiospermae",
+                        "parent_id": 211194,
+                        "ancestry": "48460/47126/211194",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 102229489,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) mateoalmada, some rights reserved (CC BY-NC)",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102229489/square.jpg",
+                            "original_dimensions": {
+                                "height": 2048,
+                                "width": 1536
+                            },
+                            "flags": [],
+                            "attribution_name": "mateoalmada",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102229489/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102229489/medium.jpg"
+                        },
+                        "taxon_changes_count": 5,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 102168082,
+                        "flag_counts": {
+                            "resolved": 13,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "https://en.wikipedia.org/wiki/Flowering_plant",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "flowering plants"
+                    },
+                    {
+                        "id": 47124,
+                        "rank": "class",
+                        "rank_level": 50,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124
+                        ],
+                        "is_active": true,
+                        "name": "Magnoliopsida",
+                        "parent_id": 47125,
+                        "ancestry": "48460/47126/211194/47125",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 17220682,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) Heriberto \u00c1vila-Gonz\u00e1lez, some rights reserved (CC BY-NC), uploaded by Heriberto \u00c1vila-Gonz\u00e1lez",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17220682/square.jpg",
+                            "original_dimensions": {
+                                "height": 1414,
+                                "width": 2048
+                            },
+                            "flags": [],
+                            "attribution_name": "Heriberto \u00c1vila-Gonz\u00e1lez",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17220682/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17220682/medium.jpg"
+                        },
+                        "taxon_changes_count": 4,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 85588101,
+                        "flag_counts": {
+                            "resolved": 10,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "https://en.wikipedia.org/wiki/Magnoliopsida",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "dicots"
+                    },
+                    {
+                        "id": 523723,
+                        "rank": "order",
+                        "rank_level": 40,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723
+                        ],
+                        "is_active": true,
+                        "name": "Boraginales",
+                        "parent_id": 47124,
+                        "ancestry": "48460/47126/211194/47125/47124",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 66417631,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) Joey Santore, some rights reserved (CC BY-NC), uploaded by Joey Santore",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66417631/square.jpeg",
+                            "original_dimensions": {
+                                "height": 1620,
+                                "width": 1080
+                            },
+                            "flags": [],
+                            "attribution_name": "Joey Santore",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66417631/square.jpeg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66417631/medium.jpeg"
+                        },
+                        "taxon_changes_count": 0,
+                        "taxon_schemes_count": 1,
+                        "observations_count": 1588133,
+                        "flag_counts": {
+                            "resolved": 0,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "http://en.wikipedia.org/wiki/Boraginales",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "borages"
+                    },
+                    {
+                        "id": 48150,
+                        "rank": "family",
+                        "rank_level": 30,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723,
+                            48150
+                        ],
+                        "is_active": true,
+                        "name": "Boraginaceae",
+                        "parent_id": 523723,
+                        "ancestry": "48460/47126/211194/47125/47124/523723",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 31342774,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) Alvin Diamond, some rights reserved (CC BY-NC), uploaded by Alvin Diamond",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31342774/square.jpg",
+                            "original_dimensions": {
+                                "height": 1198,
+                                "width": 952
+                            },
+                            "flags": [],
+                            "attribution_name": "Alvin Diamond",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31342774/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31342774/medium.jpg"
+                        },
+                        "taxon_changes_count": 11,
+                        "taxon_schemes_count": 2,
+                        "observations_count": 1587905,
+                        "flag_counts": {
+                            "resolved": 3,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "http://en.wikipedia.org/wiki/Boraginaceae",
+                        "iconic_taxon_name": "Plantae",
+                        "preferred_common_name": "borage family"
+                    },
+                    {
+                        "id": 796031,
+                        "rank": "subfamily",
+                        "rank_level": 27,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723,
+                            48150,
+                            796031
+                        ],
+                        "is_active": true,
+                        "name": "Cynoglossoideae",
+                        "parent_id": 48150,
+                        "ancestry": "48460/47126/211194/47125/47124/523723/48150",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 11843725,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) Paul Tavares, some rights reserved (CC BY-NC), uploaded by Paul Tavares",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11843725/square.jpg",
+                            "original_dimensions": {
+                                "height": 1280,
+                                "width": 2048
+                            },
+                            "flags": [],
+                            "attribution_name": "Paul Tavares",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11843725/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11843725/medium.jpg"
+                        },
+                        "taxon_changes_count": 0,
+                        "taxon_schemes_count": 0,
+                        "observations_count": 525315,
+                        "flag_counts": {
+                            "resolved": 0,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": null,
+                        "iconic_taxon_name": "Plantae"
+                    },
+                    {
+                        "id": 796037,
+                        "rank": "tribe",
+                        "rank_level": 25,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723,
+                            48150,
+                            796031,
+                            796037
+                        ],
+                        "is_active": true,
+                        "name": "Omphalodeae",
+                        "parent_id": 796031,
+                        "ancestry": "48460/47126/211194/47125/47124/523723/48150/796031",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 28379236,
+                            "license_code": "cc0",
+                            "attribution": "no rights reserved, uploaded by Peter de Lange",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28379236/square.jpg",
+                            "original_dimensions": {
+                                "height": 2048,
+                                "width": 1660
+                            },
+                            "flags": [],
+                            "attribution_name": "Peter de Lange",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28379236/square.jpg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28379236/medium.jpg"
+                        },
+                        "taxon_changes_count": 0,
+                        "taxon_schemes_count": 0,
+                        "observations_count": 4839,
+                        "flag_counts": {
+                            "resolved": 0,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": null,
+                        "iconic_taxon_name": "Plantae"
+                    },
+                    {
+                        "id": 185552,
+                        "rank": "genus",
+                        "rank_level": 20,
+                        "iconic_taxon_id": 47126,
+                        "ancestor_ids": [
+                            48460,
+                            47126,
+                            211194,
+                            47125,
+                            47124,
+                            523723,
+                            48150,
+                            796031,
+                            796037,
+                            185552
+                        ],
+                        "is_active": true,
+                        "name": "Gyrocaryum",
+                        "parent_id": 796037,
+                        "ancestry": "48460/47126/211194/47125/47124/523723/48150/796031/796037",
+                        "extinct": false,
+                        "default_photo": {
+                            "id": 184886300,
+                            "license_code": "cc-by-nc",
+                            "attribution": "(c) \u00c1ngel Arg\u00fcelles, some rights reserved (CC BY-NC), uploaded by \u00c1ngel Arg\u00fcelles",
+                            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                            "original_dimensions": {
+                                "height": 1058,
+                                "width": 1382
+                            },
+                            "flags": [],
+                            "attribution_name": "\u00c1ngel Arg\u00fcelles",
+                            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/square.jpeg",
+                            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184886300/medium.jpeg"
+                        },
+                        "taxon_changes_count": 0,
+                        "taxon_schemes_count": 1,
+                        "observations_count": 16,
+                        "flag_counts": {
+                            "resolved": 0,
+                            "unresolved": 0
+                        },
+                        "current_synonymous_taxon_ids": null,
+                        "atlas_id": null,
+                        "complete_species_count": null,
+                        "wikipedia_url": "http://en.wikipedia.org/wiki/Gyrocaryum",
+                        "iconic_taxon_name": "Plantae"
+                    }
+                ]
+            }
+        }
+    ]
+}

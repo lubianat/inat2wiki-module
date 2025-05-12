@@ -65,17 +65,24 @@ def get_commons_url(observation_data, photo_data, inaturalist_id):
         return "License not supported"
     license = switcher[license_code]
 
-    if observation_data["geojson"].get("geoprivacy") == None:
+    if observation_data["geojson"] and observation_data["taxon_geoprivacy"] == "open":
         lat = observation_data["geojson"]["coordinates"][1]
         lon = observation_data["geojson"]["coordinates"][0]
         location_template = f"\n        {{{{Location|{lat}|{lon}|source:iNaturalist}}}}"
     else:
         location_template = ""
 
+    if place_guess:
+        description = (
+            f"{upload_params["taxon"]}, {place_guess}, {upload_params["date"]} (iNaturalist)."
+        )
+    else:
+        description = f"{upload_params["taxon"]}, {upload_params["date"]} (iNaturalist)."
+
     summary = textwrap.dedent(
         f"""
         {{{{Information
-        |description={upload_params["taxon"]}, {place_guess}, {upload_params["date"]} (iNaturalist).
+        |description= {description}
         |date={upload_params["date"]}
         |source=https://www.inaturalist.org/photos/{str(upload_params["photo_id"])}
         |author=[https://www.inaturalist.org/users/{str(upload_params["user_id"])} {upload_params["user_name"]}]
