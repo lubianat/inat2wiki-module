@@ -74,10 +74,10 @@ def get_commons_url(observation_data, photo_data, inaturalist_id):
 
     if place_guess:
         description = (
-            f"{upload_params["taxon"]}, {place_guess}, {upload_params["date"]} (iNaturalist)."
+            f'{upload_params["taxon"]}, {place_guess}, {upload_params["date"]} (iNaturalist).'
         )
     else:
-        description = f"{upload_params["taxon"]}, {upload_params["date"]} (iNaturalist)."
+        description = f'{upload_params["taxon"]}, {upload_params["date"]} (iNaturalist).'
 
     summary = textwrap.dedent(
         f"""
