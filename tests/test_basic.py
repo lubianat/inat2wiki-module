@@ -48,3 +48,11 @@ def test_get_commons_url_returns_upload_link(fixture_file):
 
     # single, clear assertion: is it a Wikimedia upload URL?
     assert url.startswith("https://commons.wikimedia.org/wiki/Special:Upload")
+
+
+# tests/test_import.py
+def test_package_imports():
+    import importlib
+
+    importlib.import_module("inat2wiki")
+    importlib.import_module("inat2wiki.parse_observation")
