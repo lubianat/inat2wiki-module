@@ -29,6 +29,7 @@ from inat2wiki.parse_observation import get_commons_url
 FIXTURES = [
     "observation_279666022.json",  # obscured / private coordinates
     "observation_144917694.json",
+    "observation_284521599.json",
     # "some_other_observation.json",   # put new fixtures here
 ]
 
@@ -48,6 +49,24 @@ def test_get_commons_url_returns_upload_link(fixture_file):
 
     # single, clear assertion: is it a Wikimedia upload URL?
     assert url.startswith("https://commons.wikimedia.org/wiki/Special:Upload")
+
+
+# Parametrized test, but "Location" should be present in 284521599
+@pytest.mark.parametrize(
+    "fixture_file",
+    [
+        "observation_144917694.json",
+        "observation_284521599.json",
+    ],
+)
+def test_get_commons_url_location_present(fixture_file):
+    here = Path(__file__).parent
+    fp = here / "fixtures" / "observation_284521599.json"
+    obs = json.loads(fp.read_text())
+    first_photo = obs["photos"][0]
+    url = get_commons_url(obs, first_photo, obs["id"])
+    # Check if the location is present in the URL
+    assert "Location" in url, f"Location not found in URL for {fixture_file}"
 
 
 # tests/test_import.py
